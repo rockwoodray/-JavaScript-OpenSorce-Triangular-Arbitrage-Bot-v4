@@ -1,4 +1,8 @@
-Decentralized exchange "DEX" Triangular Arbitrage Bot Version 4. Depending on the chain you pick it looks for opportunities on the decentralized exchanges uniswap , sushiswap, pancakeswap, apeswap and quickswap. This bot can be configured for Ethereum,BNB or Polygon . It is written in pure JavaScript easy to read ,easy to run and easy to modify if you wish to do so.
+Decentralized exchange "DEX" Triangular Arbitrage Bot Version 4. Depending on the chain you pick it looks for opportunities on the decentralized exchanges uniswap , sushiswap, pancakeswap, apeswap and quickswap. This bot can be configured for Ethereum,BNB or Polygon .It is written in pure JavaScript easy to read ,easy to run and easy to modify if you wish to do so.
+
+here a youtube video of how to config and run the bot
+
+https://youtu.be/GINBnsqr8ls
 
 You can download zip file of the bot here
 
